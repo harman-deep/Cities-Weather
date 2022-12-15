@@ -1,0 +1,33 @@
+.card {
+  text-align: center;
+}
+
+.curr-wrapper {
+  background-color: aliceblue;
+  padding: 24px 6px;
+  margin: 6px;
+}
+
+.curr-icon-text {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.curr-temp-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.forecast-data-wrapper {
+  justify-content: space-evenly;
+  display: flex;
+  margin: 0 4px 6px 4px;
+}
+
+.forecast-date-icon {
+  background-color: aliceblue;
+  padding: 6px 6px 24px 6px;
+  width: 100%;
+  margin: 0 2px 2px 2px;
+}

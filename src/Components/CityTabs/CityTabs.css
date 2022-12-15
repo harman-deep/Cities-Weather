@@ -1,0 +1,10 @@
+.tabs-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.tabs-panel {
+  width: 70%;
+}

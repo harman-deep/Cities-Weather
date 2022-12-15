@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+
+h2,
+h5 {
+  margin: 0;
+  font-family: 'Oswald', sans-serif;
+}
+
+p {
+  margin: 0;
+}
